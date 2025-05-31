@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Silva",
+    "idade": 28,
+    "email": "ana.silva@email.com",
+    "cidade": "São Paulo"
+  },
+  {
+    "id": 2,
+    "nome": "Carlos Oliveira",
+    "idade": 35,
+    "email": "carlos.oliveira@email.com",
+    "cidade": "Rio de Janeiro"
+  },
+  {
+    "id": 3,
+    "nome": "Fernanda Souza",
+    "idade": 22,
+    "email": "fernanda.souza@email.com",
+    "cidade": "Belo Horizonte"
+  },
+  {
+    "id": 4,
+    "nome": "Lucas Lima",
+    "idade": 31,
+    "email": "lucas.lima@email.com",
+    "cidade": "Curitiba"
+  },
+  {
+    "id": 5,
+    "nome": "Juliana Rocha",
+    "idade": 26,
+    "email": "juliana.rocha@email.com",
+    "cidade": "Porto Alegre"
+  }
+]
